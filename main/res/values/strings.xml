@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HowsTheSky</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="world_map">World Map</string>
+    <string name="_23_c">23°C</string>
+    <string name="thunderstorm">Thunderstorm</string>
+    <string name="hint">hint</string>
+    <string name="enter_city">Enter City</string>
+    <string name="check_weather">CHECK WEATHER</string>
+    <string name="go_to_recent_cities">GO TO RECENT CITIES</string>
+    <string name="city">Hyderabad</string>
+    <string name="current_weather">CHECK CURRENT WEATHER</string>
+    <string name="weather_checker">WEATHER CHECKER</string>
+    <string name="please_select_where_to_go">Please click below button to check weather of a city:</string>
+    <string name="recent_cities">RECENT CITIES</string>
+    <string name="text_recent_cities">Recent Cities :</string>
+    <string name="go_to_current_weather">GO TO CURRENT WEATHER</string>
+    <string name="graph">graph</string>
+    <string name="ListOfCities">Hyderabad, Dubai, New York, Mumbai, Australia</string>
+</resources>
